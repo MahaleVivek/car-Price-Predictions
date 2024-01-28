@@ -51,8 +51,8 @@ These steps should help you set up and work within a virtual environment on Wind
 
 # If you get UnauthorizedAccess Access on Step 3
 
-User
 venv\Scripts\activate
+
 venv\Scripts\activate : File E:\Python Projects\car-Price-Predictions\venv\Scripts\Activate.ps1 cannot be loaded
 because running scripts is disabled on this system. For more information, see about_Execution_Policies at
 https:/go.microsoft.com/fwlink/?LinkID=135170.
